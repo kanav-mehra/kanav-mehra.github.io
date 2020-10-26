@@ -1,7 +1,7 @@
 ---
 title: 'Amphan - Analyzing Experiences of Extreme Weather Events using Online Data'
 collection: projects
-excerpt: 'Cyclone Amphan made landfall in South Asia on May 20, 2020. It was the most damaging storm in the history of the Indian Ocean, rendering hundreds of thousands of people homeless, ravaging agricultural lands and causing billions of dollars in damage. How were people affected by the storm? What were the responses of individuals, governments, corporates and NGOs? How was it covered by local, national and international media, as opposed to individuals’ accounts? Who has created the dominant narratives of Cyclone Amphan; and whose voices go unheard? We aim to use online data – such as Twitter posts, news headlines and research publications – to analyze people’s experiences of Cyclone Amphan.'
+excerpt: 'The annual average number of extreme weather events has more than doubled globally since 1980. These events can have devastating impacts on communities worldwide, but the diversity of people's experiences is difficult to capture and communicate. Thus, it is imperative to develop and refine approaches for responding to extreme weather events that draw upon all available tools. Consequently, the DSSG Solve team, in collaboration with IWMI, aims to develop research methodologies that leverage online social media data to better understand the experiences and needs of vulnerable communities affected by natural disasters. Through our goal, we hope to derive actionable insights to supplement on-the-ground efforts and help inform critical policy-making processes.'
 date: 2020-10-15
 permalink: /projects/Amphan
 ---
