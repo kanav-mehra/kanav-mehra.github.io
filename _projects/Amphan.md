@@ -1,7 +1,7 @@
 ---
 title: 'Amphan - Analyzing Experiences of Extreme Weather Events using Online Data'
 collection: projects
-excerpt: 'The annual average number of extreme weather events has more than doubled globally since 1980. These events can have devastating impacts on communities worldwide, but the diversity of experiences is difficult to capture and communicate. Thus, it is imperative to develop and refine approaches for responding to extreme weather events that draw upon all available tools. Social media platforms serve as massive repositories of real-time actionable and situational information during extreme weather events. Consequently, the DSSG Solve team, in collaboration with the International Water Management Institute (IWMI), aims to develop research methodologies that leverage online social media data to better understand the experiences and needs of vulnerable communities affected by natural disasters. Through our goal, we hope to derive actionable insights to supplement on-the-ground efforts and help inform critical policy-making processes.'
+excerpt: 'The DSSG Solve team, in collaboration with the International Water Management Institute (IWMI), aims to develop research methodologies that leverage online social media data to better understand the experiences and needs of vulnerable communities affected by natural disasters. This research tool would enable users to tap into the online discourse and social, political, and economic effects of extreme weather events. Through our goal, we hope to derive actionable insights to supplement on-the-ground efforts and help inform critical policy-making processes.'
 date: 2020
 permalink: /projects/Amphan
 ---
