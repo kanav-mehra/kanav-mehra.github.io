@@ -15,6 +15,6 @@ People often turn to social media to comment upon and share information about ma
 
 Graphical abstracts are shared below:
 
-![alt <b>RQ1: Identifying narratives and influential users</b>](http://kanav-mehra.github.io/images/rq1_pipeline.jpg)
+![alt RQ1](http://kanav-mehra.github.io/images/rq1_pipeline.jpg "<b>RQ1: Identifying narratives and influential users</b>")
 
-![alt <b>RQ2: Identifying negative experiences and unmet needs</b>](http://kanav-mehra.github.io/images/rq2_pipeline.jpg)
+![alt RQ2](http://kanav-mehra.github.io/images/rq2_pipeline.jpg "<b>RQ2: Identifying negative experiences and unmet needs</b>")
