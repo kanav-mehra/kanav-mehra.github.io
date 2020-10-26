@@ -2,7 +2,6 @@
 title: 'Amphan - Analyzing Experiences of Extreme Weather Events using Online Data'
 collection: projects
 excerpt: 'In this paper, we contribute two novel methodologies that leverage Twitter discourse to characterize narratives and identify unmet needs in response to Cyclone Amphan, which affected 18 million people in May 2020.'
-date: 2020-10-15
 permalink: /projects/Amphan
 ---
 
