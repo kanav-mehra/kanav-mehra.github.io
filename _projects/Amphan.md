@@ -2,17 +2,11 @@
 title: 'Amphan - Analyzing Experiences of Extreme Weather Events using Online Data'
 collection: projects
 excerpt: 'The DSSG Solve team, in collaboration with the International Water Management Institute (IWMI), aims to develop research methodologies that leverage online social media data to better understand the experiences and needs of vulnerable communities affected by natural disasters. This research tool would enable users to tap into the online discourse and social, political, and economic effects of extreme weather events. Through our goal, we hope to derive actionable insights to supplement on-the-ground efforts and help inform critical policy-making processes.'
-date: 2020
+date: 2020-10-15
 permalink: /projects/Amphan
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
+Objective
 ------
+For the initial phase, we focus on a recent extreme weather event - Cyclone Amphan, which made landfall in South Asia on May 20, 2020, and affected 18 million people along the way. We first aimed to characterize how collective knowledge about Cyclone Amphan was produced on Twitter. Accordingly, our first research question was: Who and which ideas are shaping the narratives around Cyclone Amphan, and whose experiences are going unheard? Next, we aimed to explore how to best support people affected by extreme weather events. This led to our second research question: Can Twitter content help identify unmet needs of people affected by Cyclone Amphan? If so, how?
+
