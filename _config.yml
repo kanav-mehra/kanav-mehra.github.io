@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kanav Mehra"
   avatar           : "profile.png"
-  bio              : "Hello, I exist, again!"
+  bio              : "Technology Consultant | Machine Learning enthusiast"
   location         : "Kolkata, India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=FKLCfnYAAAAJ&hl=en"
-  email            :
+  email            : "kanav.mehra6@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -101,8 +101,8 @@ author:
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
+  lastfm           : 
+  linkedin         : "kanav-mehra"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
