@@ -1,7 +1,7 @@
 ---
 title: 'Amphan - Analyzing Experiences of Extreme Weather Events using Online Data'
 collection: projects
-excerpt: 'The annual average number of extreme weather events has more than doubled globally since 1980. These events can have devastating impacts on communities worldwide, but the diversity of people's experiences is difficult to capture and communicate. Thus, it is imperative to develop and refine approaches for responding to extreme weather events that draw upon all available tools.'
+excerpt: 'The annual average number of extreme weather events has more than doubled globally since 1980. These events can have devastating impacts on communities worldwide, but the diversity of people experiences is difficult to capture and communicate. Thus, it is imperative to develop and refine approaches for responding to extreme weather events that draw upon all available tools.'
 date: 2020-10-15
 permalink: /projects/Amphan
 ---
