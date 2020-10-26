@@ -2,7 +2,7 @@
 title: "Ensemble Algorithms for Microblog Summarization"
 collection: publications
 permalink: /publication/Ensemble-2018
-excerpt: 'In this work, we investigate whether off-the-shelf summarization algorithms can be combined to produce better quality summaries. We propose two ensemble schemes -- an unsupervised scheme and a supervised scheme -- that can combine the outputs of multiple base summarization algorithms, to produce summaries that are better than what is obtained from any of the individual base algorithms.'
+excerpt: 'In this work, we propose two ensemble schemes that can combine the outputs of multiple base summarization algorithms, to produce summaries that are better than what is obtained from any of the individual base algorithms.'
 date: 2018-07-31
 venue: 'IEEE Intelligent Systems'
 paperurl: 'https://ieeexplore.ieee.org/document/8423533'

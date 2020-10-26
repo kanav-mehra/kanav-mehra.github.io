@@ -5,7 +5,7 @@ permalink: /publication/IEMIS-2018
 excerpt: 'In this work, we evaluate and compare the performance of eight extractive summarization algorithms in the application of summarizing microblogs posted during emergency events.'
 date: 2019-10-01
 venue: 'International Conference on Emerging Technologies in Data Mining and Information Security'
-paperurl: 'https://link.springer.com/chapter/10.1007%2F978-981-13-1498-8_76#citeas'
+paperurl: 'https://link.springer.com/chapter/10.1007%2F978-981-13-1498-8_76'
 citation: 'Dutta, S., Chandra, V., Mehra, K., Ghatak, S., Das, A. & Ghosh, S. (2019). "Summarizing Microblogs during Emergency Events: A Comparison of Extractive Summarization Algorithms." <i>International Conference on Emerging Technologies in Data Mining and Information Security (IEMIS), pp. 859-872</i>.'
 ---
 
