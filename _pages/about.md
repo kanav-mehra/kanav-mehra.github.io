@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is a test... I exist.
+Hello, I am a Technology Consultant at [PwC India](https://www.pwc.in/). I am interested in pursuing research in natural language processing, especially where it can be applied to social sciences and public policy research.
