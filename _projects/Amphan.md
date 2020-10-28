@@ -44,3 +44,7 @@ Useful Links
 * [Study on the impact of cyclone Amphan (Developed by IWMI)](https://www.iwmi.cgiar.org/2020/05/using-maps-to-save-lives-when-a-super-cyclone-strikes/)
 * [arXiv preprint](https://kanav-mehra.github.io/publication/Amphan-2020)
 * [Data Fest 2020 Presentation](https://www.youtube.com/watch?v=YtKYIS61i5I)
+
+DSSG Solve Team
+-----
+Kanav Mehra, Ancil Crayton, João Fonseca, Jared Ross, Marcelo Sandoval-Castañeda
