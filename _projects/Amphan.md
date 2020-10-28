@@ -10,23 +10,14 @@ Objective
 ------
 For the initial phase, we focus on a recent extreme weather event - Cyclone Amphan, which made landfall in South Asia on May 20, 2020, and affected 18 million people along the way. We first aimed to characterize how collective knowledge about Cyclone Amphan was produced on Twitter. Accordingly, our first research question was: Who and which ideas are shaping the narratives around Cyclone Amphan, and whose experiences are going unheard? Next, we aimed to explore how to best support people affected by extreme weather events. This led to our second research question: Can Twitter content help identify unmet needs of people affected by Cyclone Amphan? If so, how?
 
-Research Questions
+Research Methods
 --------------
 
 <b>Identifying narratives and influential users</b>
-<b>Pipeline</b>
 ![alt RQ1](http://kanav-mehra.github.io/images/rq1_pipeline.jpg)
 
-<b>Approach</b>
-We begin by identifying the topics discussed in each tweet by assigning labels via zero-shot text classification. In order to highlight tweets from users who were personally affected by Cyclone Amphan, the data is then filtered to include only first person tweets using the point-of-view analysis. We narrow down our focus to the labels that have a median negative sentiment with the assumption that negative experiences are more likely to suggest unmet needs. We then report representative tweets using extractive summarization techniques to identify the dominant themes within each label.
-
-
 <b>Identifying negative experiences and unmet needs</b>
-<b>Pipeline</b>
 ![alt RQ2](http://kanav-mehra.github.io/images/rq2_pipeline.jpg)
-
-<b>Approach</b>
-We address this question through the usage of user vectors as a means of positioning users in a two dimensional space. The network's edges are assigned based on the number of retweets and/or replies among users. These users can now be grouped into different communities using two different methods: 1) discourse-based, where the clustering is done on the embedding features and 2) community-based, done through network clustering methods. For both clustering methods, the most popular users within each cluster are identified based on centrality measures and the number of followers the user has.
 
 Project Partners
 ------
