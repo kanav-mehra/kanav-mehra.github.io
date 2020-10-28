@@ -15,8 +15,6 @@ Research Methods
 
 <b>Identifying narratives and influential users</b>
 
-
-<b>Pipeline</b>
 ![alt RQ1](http://kanav-mehra.github.io/images/rq1_pipeline.jpg)
 
 <b>Approach</b>:
@@ -25,8 +23,6 @@ We begin by identifying the topics discussed in each tweet by assigning labels v
 
 <b>Identifying negative experiences and unmet needs</b>
 
-
-<b>Pipeline</b>
 ![alt RQ2](http://kanav-mehra.github.io/images/rq2_pipeline.jpg)
 
 <b>Approach</b>:
