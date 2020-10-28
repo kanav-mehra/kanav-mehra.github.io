@@ -34,27 +34,6 @@ layout: default
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
         {% endif %}
         
-        <div style="margin-bottom: 3rem;">
-          {% if page.collection == 'teaching' %}
-            <span> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </span>
-          {% elsif page.venue and page.date %}
-            <a href="{{ page.paperurl }}" class="btn" style="background-color: #236bd6;">
-              <i class="ai ai-open-access-square" aria-hidden="true" style="font-size: 1.25em;"></i>
-              {{ page.venue }}, {{ page.date | default: "1900-01-01" | date: "%Y" }} 
-            </a>
-          {% elsif page.date %}
-            <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></span>
-          {% endif %}
-
-          {% if page.repo %}
-            <a href="{{ page.repo }}" class="btn btn--github" style="background-color: black; float: right;" title="View on GitHub">
-              <i class="fab fa-github" aria-hidden="true"></i>
-              <span>{{ page.repo | remove: "https://github.com/" }}</span>
-            </a>
-          {% endif %}
-        </div>
-        
-        <!--
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date %}
@@ -62,14 +41,12 @@ layout: default
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
-        
              
         {% if page.citation and page.paperurl %}
-          <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
+          <p><b>Recommended citation:</b> <i>{{ page.citation }}</i> <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
         {% elsif page.citation %}
-          <p>Recommended citation: {{ page.citation }} </p>
+          <p><b>Recommended citation:</b> <i>{{ page.citation }}</i> </p>
         {% endif %}
-        -->
     
         </header>
       {% endunless %}
