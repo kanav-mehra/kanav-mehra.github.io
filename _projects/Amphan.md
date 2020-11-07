@@ -34,7 +34,7 @@ Project Partners
 
 Useful Links
 ------
-* [Github Repository](https://github.com/kanav-mehra/solve-iwmi) (Currently a private repository until the project is complete)
+* [Github Repository](https://github.com/kanav-mehra/solve-iwmi)
 * [Project Webpage](https://solveforgood.org/proj/35/)
 * [Study on the impact of cyclone Amphan (Developed by IWMI)](https://www.iwmi.cgiar.org/2020/05/using-maps-to-save-lives-when-a-super-cyclone-strikes/)
 * [arXiv preprint](https://kanav-mehra.github.io/publication/Amphan-2020)
