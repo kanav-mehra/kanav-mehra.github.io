@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Publications"
 permalink: /publications/
+title: "Publications"
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+{% if author.uri %}
   You can also find my articles on <u><a href="https://scholar.google.com/citations?user=FKLCfnYAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 {% endif %}
 
