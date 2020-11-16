@@ -2,7 +2,7 @@
 title: 'SMERP Data Challenge Track - ECIR 2017'
 collection: projects
 excerpt: 'The motivation of the data challenge is to promote development of IR methodologies that can be used to extract important information from social media during emergency events, and to arrange for comparative evaluation of the methodologies.'
-permalink: /projects/Amphan
+permalink: /projects/SMERP
 ---
 
 Objective
