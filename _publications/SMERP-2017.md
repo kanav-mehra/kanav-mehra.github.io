@@ -8,8 +8,7 @@ venue: 'SMERP@ECIR'
 citation: 'Mehra, K. and V. Chandra. (2017). "Summarizing Microblogs for Emergency Relief and Preparedness." <i>SMERP@ECIR</i>.'
 ---
 
-The [SMERP Data Challenge](https://www.computing.dcu.ie/~dganguly/smerp2017/), organised by the 39th European Conference on Information Retrieval (ECIR 2017), was about extracting and summarizing information relevant to a set of practical information needs (topics) that are critical for post-disaster relief operations, such as need and availability of resources, infrastructure damage and restoration, etc. The track used a [dataset](https://zenodo.org/record/3336563#.X5cDE4gzZPZ) of microblogs posted during the August 2016 earthquake in central Italy.
-
-In this paper, we present a semi-automatic method that exploits a combination of SumBasic Summarizer and different classifiers to summarize the topic wise relevant microblogs (tweets) extracted through manually identified query-term matching. Acordingly, our method obtained the overall first place in the SMERP 2017 Data Challenge - Summarization Track, highlighting that it is an effective approach in summarizing tweets in a disaster scenario and can be replicated across diverse domains.
+<b>Abstract</b>
+In recent years, Online Social Media (OSM) has established itself as one of the most significant sources of situational information during any natural or man-made disaster. Real-time summarization of this rapidly posted huge volume of crowdsourced responses is a common requirement for emergency relief and preparedness when time is critical. Our semi-automatic method exploits a combination of SumBasic Summarizer and different classifiers to summarize the topic wise relevant microblogs (tweets) extracted through manually identified query term matching. The result of our participation in the SMERP 2017 Data Challenge Track shows that it is an effective approach in summarizing tweets in a disaster scenario and can be replicated across diverse domains.
 
 [PDF](http://kanav-mehra.github.io/files/SMERP-2017.pdf)

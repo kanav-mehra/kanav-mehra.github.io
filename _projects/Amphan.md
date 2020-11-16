@@ -42,4 +42,8 @@ Useful Links
 
 DSSG Solve Team
 -----
-Kanav Mehra, Ancil Crayton, João Fonseca, Jared Ross, Marcelo Sandoval-Castañeda
+<i>Kanav Mehra</i>, Ancil Crayton, João Fonseca, Jared Ross, Marcelo Sandoval-Castañeda
+
+IWMI Team
+-----
+Michelle Ng, Rachel von Gnechten
