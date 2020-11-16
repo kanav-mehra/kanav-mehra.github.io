@@ -15,7 +15,7 @@ We demonstrate that topic-wise summarization of tweets during disaster events ca
 
 Useful Links
 ------
-* [Data Challenge Webpage](https://solveforgood.org/proj/35/)
+* [Data Challenge Webpage](https://www.computing.dcu.ie/~dganguly/smerp2017/)
 * [Results of Text Summarization Sub-Track](https://www.computing.dcu.ie/~dganguly/smerp2017/SMERP-Summarization-Track-document.pdf)
 * [Dataset](https://zenodo.org/record/3336563#.X5cDE4gzZPZ)
 * [Workshop Paper](https://kanav-mehra.github.io/publication/SMERP-2017)
