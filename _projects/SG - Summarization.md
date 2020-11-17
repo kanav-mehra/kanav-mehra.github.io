@@ -1,7 +1,7 @@
 ---
 title: 'Summarization of Microblogs for Disaster and Emergency Preparedness'
 collection: projects
-excerpt: 'Our goal was to analyze existing extractive summarization algorithms and devise novel methods for summarizing the large volumes of microblogs (tweets) posted during disaster events with implications for relief efforts.
+excerpt: 'Our goal was to analyze existing extractive summarization algorithms and devise novel methods for summarizing the large volumes of microblogs (tweets) posted during disaster events with implications for relief efforts.\
 <b>Advisor</b>: Dr. Saptarshi Ghosh, IIT Kharagpur, India.'
 permalink: /projects/Summarization
 ---
