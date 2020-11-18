@@ -8,14 +8,14 @@ permalink: /projects/Summarization
 
 Objective
 ------
-Microblogging sites, notably Twitter, have become important sources of real-time situational information during emergency events. On such sites, microblogs are usually posted so rapidly and in such large volumes, that it is not feasible for human users to go through all the posts. In such scenarios, summarization of microblogs (tweets) is an important task. In this project, we study the performance of <i>eight</i> off-the-shelf extractive summarization algorithms and propose novel ensemble techniques for text summarization. We demonstrate that it is possible to combine off-the-shelf summarization algorithms to achieve better summarization for microblogs
+Microblogging sites, notably Twitter, have become important sources of real-time situational information during emergency events. On such sites, microblogs are usually posted so rapidly and in such large volumes, that it is not feasible for human users to go through all the posts. In such scenarios, summarization of microblogs (tweets) is an important task. In this project, we study the performance of <i>eight</i> off-the-shelf extractive summarization algorithms and propose novel ensemble techniques for text summarization. We demonstrate that it is possible to combine off-the-shelf summarization algorithms to achieve better summarization for microblogs.<br />
 <b>Advisor:</b> [Prof. Saptarshi Ghosh](https://sites.google.com/site/saptarshighosh/) 
 
 Approach
 ------
 
-<b>Comparing off-the-shelf extractive summarization algorithms:</b>
-We compared and evaluated eight distinct extractive summarization algorithms over microblogs posted during five recent disaster events, based on a standard metric for automatic evaluation - ROUGE. Given the same input set of microblogs, these summarization algorithms generated vastly diverse summaries with minimal overlap. 
+<b>Comparing extractive summarization algorithms:</b>
+We compared and evaluated eight off-the-shelf extractive summarization algorithms over microblogs posted during five recent disaster events, based on a standard metric for automatic evaluation - ROUGE. Given the same input set of microblogs, these summarization algorithms generated vastly diverse summaries with minimal overlap. 
 For more information, check out the paper [here](https://kanav-mehra.github.io/publication/IEMIS-2018).
 
 <b>Developing Ensemble algorithms for summarization:</b>
