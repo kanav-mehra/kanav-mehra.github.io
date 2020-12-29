@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Amphan-2020
 excerpt: 'In this paper, we contribute two novel methodologies that leverage Twitter discourse to characterize narratives and identify unmet needs in response to Cyclone Amphan, which affected 18 million people in May 2020.'
 date: 2020-09-10
-venue: 'Tackling Climate Change with Machine Learning Workshop at NeurIPS 2020. AI for Social Good Workshop at IJCAI 2020.'
+venue: 'Tackling Climate Change with Machine Learning Workshop at NeurIPS 2020, AI for Social Good Workshop at IJCAI 2020'
 paperurl: 'https://www.climatechange.ai/papers/neurips2020/42'
 citation: 'Crayton, A., Fonseca, J., Mehra, K., Ng, M., Ross, J., Sandoval-Castañeda, M., & von Gnechten, R. (2020). "Narratives and Needs: Analyzing Experiences of Cyclone Amphan Using Twitter Discourse." <i>Tackling Climate Change with Machine Learning Workshop at NeurIPS 2020. AI for Social Good Workshop at IJCAI 2020.</i>'
 ---

@@ -12,7 +12,7 @@ For the initial phase, we focus on a recent extreme weather event - Cyclone Amph
 Research Methods
 --------------
 
-<b>Identifying narratives and influential users</b>
+<b>Identifying negative experiences and unmet needs</b>
 
 ![alt RQ1](http://kanav-mehra.github.io/images/rq1_pipeline.jpg)
 
@@ -20,7 +20,7 @@ Research Methods
 We begin by identifying the topics discussed in each tweet by assigning labels via zero-shot text classification. In order to highlight tweets from users who were personally affected by Cyclone Amphan, the data is then filtered to include only first person tweets using the point-of-view analysis. We narrow down our focus to the labels that have a median negative sentiment with the assumption that negative experiences are more likely to suggest unmet needs. We then report representative tweets using extractive summarization techniques to identify the dominant themes within each label.
 
 
-<b>Identifying negative experiences and unmet needs</b>
+<b>Identifying narratives and influential users</b>
 
 ![alt RQ2](http://kanav-mehra.github.io/images/rq2_pipeline.jpg)
 
