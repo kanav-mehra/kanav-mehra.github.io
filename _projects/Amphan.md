@@ -39,6 +39,7 @@ Useful Links
 * [Project Webpage](https://solveforgood.org/proj/35/)
 * [Study on the impact of cyclone Amphan (Developed by IWMI)](https://www.iwmi.cgiar.org/2020/05/using-maps-to-save-lives-when-a-super-cyclone-strikes/)
 * [NeurIPS 2020 Workshop Publication](https://www.climatechange.ai/papers/neurips2020/42)
+* [IJCAI 2020 Workshop Publication](https://crcs.seas.harvard.edu/publications/narratives-and-needs-analyzing-experiences-cyclone-amphan-using-twitter-discourse)
 * [Slides](https://www.climatechange.ai/papers/neurips2020/42/slides.pdf)
 * [Paper](https://kanav-mehra.github.io/publication/Amphan-2020)
 * [Data Fest 2020 Presentation](https://www.youtube.com/watch?v=YtKYIS61i5I)
