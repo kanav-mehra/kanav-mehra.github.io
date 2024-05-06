@@ -3,9 +3,9 @@ title: "Deliberation and Voting in Approval-Based Multi-Winner Elections"
 collection: publications
 permalink: /publication/Deliberation-Voting
 date: 2023-06-24
-venue: 'International Joint Conference on Artificial Intelligence (IJCAI) 2023 Main Track [to appear], Citizen-Centric Multiagent Systems Workshop at AAMAS 2023'
+venue: 'International Joint Conference on Artificial Intelligence (IJCAI) 2023 Main Track, Citizen-Centric Multiagent Systems Workshop at AAMAS 2023'
 paperurl: 'https://arxiv.org/pdf/2305.08970.pdf'
-citation: 'Mehra, K., Sreenivas, N., Larson, K. (2023). Deliberation and Voting in Approval-Based Multi-Winner Elections. International Joint Conference on Artificial Intelligence (IJCAI) 2023 Main Track [to appear]'
+citation: 'Mehra, K., Sreenivas, N., Larson, K. (2023). Deliberation and Voting in Approval-Based Multi-Winner Elections. International Joint Conference on Artificial Intelligence (IJCAI) 2023 Main Track'
 ---
 
 <b>Abstract:</b> 
